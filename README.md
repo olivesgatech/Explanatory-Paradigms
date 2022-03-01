@@ -42,3 +42,8 @@ In this article, we present a leap-forward expansion to the study of explainabil
 ## Usage : 
 
 **Version 1** (March 1 2022): The function methods.py consists of classes for [GradCAM](https://arxiv.org/abs/1610.02391) (observed correlations), [CounterfactualCAM](https://arxiv.org/abs/1610.02391) (observed counterfactuals), and [ContrastCAM](https://arxiv.org/abs/2008.00178) (observed contrast). All these methods are called from the main.py function for any of ResNet, VGG16, Densenet, AlexNet, and SqueezeNet architectures.
+
+1. Select the pretrained model in line 58 of main.py
+2. Choose the appropriate model_dict from lines 60-68. For your own model, please select the target layer withi utils.py. Tip: Last convolution layer is generally better since it has the maximum amount of semantic information
+3. By default, the GradCAM and CounterfactualCAM results are displayed for the predicted. If you want to see results for another class, please pass the class number as an arguement within gradcam and counterfactualCAM classes in Lines 74 and 87.
+4. By default the ContrastCAM shows results for a class *Q* that 
