@@ -11,9 +11,9 @@ In this article, we present a leap-forward expansion to the study of explainabil
 
 **Paper** : [Explanatory Paradigms in Neural Networks](https://arxiv.org/abs/2202.11838)
 
-**Usage** : 
+## Usage : 
 
-1. Version 1 (March 1 2022): The function methods.py consists of classes for [GradCAM](https://arxiv.org/abs/1610.02391) (observed correlations), [CounterfactualCAM](https://arxiv.org/abs/1610.02391) (observed counterfactuals), and [ContrastCAM](https://arxiv.org/abs/2008.00178) (observed contrast). All these methods are called from the main.py function for any of ResNet, VGG16, Densenet, AlexNet, and SqueezeNet architectures.
+**Version 1** (March 1 2022): The function methods.py consists of classes for [GradCAM](https://arxiv.org/abs/1610.02391) (observed correlations), [CounterfactualCAM](https://arxiv.org/abs/1610.02391) (observed counterfactuals), and [ContrastCAM](https://arxiv.org/abs/2008.00178) (observed contrast). All these methods are called from the main.py function for any of ResNet, VGG16, Densenet, AlexNet, and SqueezeNet architectures.
 
 **Code Acknowledgements** :  The code is built on Grad-CAM. We use the implementation of **https://github.com/1Konny/gradcam_plus_plus-pytorch** as our base code. 
 
