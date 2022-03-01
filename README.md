@@ -21,7 +21,7 @@ In this article, we present a leap-forward expansion to the study of explainabil
 4. By default the ContrastCAM shows results for a class *Q* that has the second highest probability of prediction. If you want to see results for another class, please pass the class number as an arguement within contrastCAM class in Line 81.
 
 
-## Citation : 
+## Citation 
 
 Please cite the following two papers if this code is used: 
 
