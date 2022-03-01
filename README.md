@@ -21,7 +21,9 @@ In this article, we present a leap-forward expansion to the study of explainabil
 4. By default the ContrastCAM shows results for a class *Q* that has the second highest probability of prediction. If you want to see results for another class, please pass the class number as an arguement within contrastCAM class in Line 81.
 
 
-## Citation : Please cite the following two papers if this code is used: 
+## Citation : 
+
+Please cite the following two papers if this code is used: 
 
 1. [Contrastive Explanations in Neural Networks](https://arxiv.org/abs/2008.00178) : Prabhushankar, M., Kwon, G., Temel, D., & AlRegib, G. (2020, October). Contrastive explanations in neural networks. In 2020 IEEE International Conference on Image Processing (ICIP) (pp. 3289-3293). IEEE.
 
