@@ -18,4 +18,26 @@ In this article, we present a leap-forward expansion to the study of explainabil
 **Citation** : Please cite the following two papers if this code is used: 
 
 1. [Contrastive Explanations in Neural Networks](https://arxiv.org/abs/2008.00178) : Prabhushankar, M., Kwon, G., Temel, D., & AlRegib, G. (2020, October). Contrastive explanations in neural networks. In 2020 IEEE International Conference on Image Processing (ICIP) (pp. 3289-3293). IEEE.
+
+If you find this repository useful, please cite our papers:
+```
+@inproceedings{prabhushankar2020contrastive,
+  title={Contrastive explanations in neural networks},
+  author={Prabhushankar, Mohit and Kwon, Gukyeong and Temel, Dogancan and AlRegib, Ghassan},
+  booktitle={2020 IEEE International Conference on Image Processing (ICIP)},
+  pages={3289--3293},
+  year={2020},
+  organization={IEEE}
+}
+```
+
 2. [Explanatory Paradigms in Neural Networks](https://arxiv.org/abs/2202.11838) : AlRegib, G., & Prabhushankar, M. (2022). Explanatory Paradigms in Neural Networks. arXiv preprint arXiv:2202.11838.
+
+```
+@article{alregib2022explanatory,
+  title={Explanatory Paradigms in Neural Networks},
+  author={AlRegib, Ghassan and Prabhushankar, Mohit},
+  journal={arXiv preprint arXiv:2202.11838},
+  year={2022}
+}
+```
