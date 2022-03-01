@@ -1,4 +1,4 @@
-# Explanatory-Paradigms
+# Explanatory-Paradigms-in-Neural-Networks
 Code used in the paper [Explanatory Paradigms in Neural Networks](https://arxiv.org/abs/2202.11838), published in the Signal Processing Magazine
 
 **Abstract** 
