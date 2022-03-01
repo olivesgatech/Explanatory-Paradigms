@@ -19,7 +19,6 @@ In this article, we present a leap-forward expansion to the study of explainabil
 
 1. [Contrastive Explanations in Neural Networks](https://arxiv.org/abs/2008.00178) : Prabhushankar, M., Kwon, G., Temel, D., & AlRegib, G. (2020, October). Contrastive explanations in neural networks. In 2020 IEEE International Conference on Image Processing (ICIP) (pp. 3289-3293). IEEE.
 
-If you find this repository useful, please cite our papers:
 ```
 @inproceedings{prabhushankar2020contrastive,
   title={Contrastive explanations in neural networks},
