@@ -1,5 +1,5 @@
 # Explanatory-Paradigms-in-Neural-Networks
-Code used in the paper [Explanatory Paradigms in Neural Networks](https://arxiv.org/abs/2202.11838), published in the Signal Processing Magazine. 
+Code used in the paper [Explanatory Paradigms in Neural Networks](https://arxiv.org/abs/2202.11838), accepted at the Signal Processing Magazine, Special Issue on Data Science and Explainability. 
 
 AlRegib, G., & Prabhushankar, M. (2022). Explanatory Paradigms in Neural Networks. arXiv preprint arXiv:2202.11838.
 
